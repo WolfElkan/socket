@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2020-06-01T21:42:51.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Safari/605.1.15" etag="3p9fntBXTrwmZSnjAqcz" version="13.1.12" type="google">
+	<diagram id="-TUAGEFw7CmUz057GNQ2" name="Page-1">
+		<mxGraphModel dx="946" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+			<root>
+				<mxCell id="0" />
+				<mxCell id="1" parent="0" />
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-41" value="&lt;b&gt;Client&lt;/b&gt;&lt;br&gt;public/main.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;" vertex="1" parent="1">
+					<mxGeometry x="80" y="80" width="200" height="450" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-42" value="&lt;b&gt;Server&lt;/b&gt;&lt;br&gt;index.js" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;verticalAlign=top;" vertex="1" parent="1">
+					<mxGeometry x="520" y="80" width="200" height="450" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-45" value="&lt;b&gt;hack&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="flCrMh-UM4qwO5J5_XD2-43" target="flCrMh-UM4qwO5J5_XD2-44">
+					<mxGeometry relative="1" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-43" value="hack()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+					<mxGeometry x="120" y="130" width="120" height="30" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-54" value="&lt;b&gt;crack&lt;/b&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="flCrMh-UM4qwO5J5_XD2-44" target="flCrMh-UM4qwO5J5_XD2-50">
+					<mxGeometry x="0.2471" relative="1" as="geometry">
+						<mxPoint x="330" y="230" as="targetPoint" />
+						<Array as="points">
+							<mxPoint x="620" y="205" />
+						</Array>
+						<mxPoint as="offset" />
+					</mxGeometry>
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-44" value="&lt;i&gt;evaluate data&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+					<mxGeometry x="560" y="130" width="120" height="30" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-46" value="Meta-documentation&lt;br&gt;&lt;br&gt;&lt;i&gt;Italics = comment or description of process&lt;br&gt;&lt;/i&gt;&lt;b&gt;Bold = heading or socket message text&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+					<mxGeometry y="920" width="240" height="180" as="geometry" />
+				</mxCell>
+				<mxCell id="flCrMh-UM4qwO5J5_XD2-50" value="&lt;i&gt;console.log data&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+					<mxGeometry x="120" y="190" width="120" height="30" as="geometry" />
+				</mxCell>
+			</root>
+		</mxGraphModel>
+	</diagram>
+</mxfile>
