@@ -20,3 +20,4 @@ $ nodemon index.js
 And point your browser to `http://localhost:3000`. Optionally, specify
 a port by supplying the `PORT` env variable.
 
+View [system diagram](https://app.diagrams.net/#HWolfElkan%2Fsocket%2Fmaster%2Fdiagram.xml)
